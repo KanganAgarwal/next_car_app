@@ -1,2 +1,2 @@
-# Car_Showcase_Application
- It is a website made using Next Js , TypeScript and Tailwind Css
+# next_car_app
+ This website helps users to search cars based on their brand and see the features of different models.
